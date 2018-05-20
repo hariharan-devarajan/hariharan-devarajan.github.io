@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "hariharan-devarajan.github.io",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -9,8 +9,8 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 40,
-    "versionPublish": "4.7.2",
+    "uniqCompNum": 41,
+    "versionPublish": "4.3.2",
     "path": "@PROJECT_PATH@"
   },
   "pages": {
@@ -57,7 +57,7 @@
               "font-size": "14px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">PUBLICATIONS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">PROJECTS</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">TEAM</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">CONTACT</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">PUBLICATIONS</a></li>    <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">TEAM</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">CONTACT</a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -111,7 +111,7 @@
         },
         {
           "_params": {
-            "showHeader": false,
+            "showHeader": true,
             "showSubheader": false,
             "showImages": false,
             "showTitles": true,
@@ -134,7 +134,7 @@
             "overlayOpacity": 0.5
           },
           "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "header": "ONGOING PROJECTS",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
@@ -196,7 +196,7 @@
               "size": 0
             }
           },
-          "title3": "ATRIO",
+          "title3": "AETRIO",
           "caption3": "An Elastic, Adaptive, Energy-Aware Task-based Reactive I/O System.<br>- Change I/O architectures to task-based<br>- Dynamic pool of workers to serve several applications",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
@@ -365,7 +365,7 @@
               "font-size": "14px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">PUBLICATIONS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">PROJECTS</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">TEAM</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">CONTACT</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">PUBLICATIONS</a></li>    <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">TEAM</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">CONTACT</a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -424,7 +424,7 @@
             "overlayOpacity": 0.2
           },
           "title": "ABOUT",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text": "<p><b>I am a 2nd year Ph.D. Candidate at Illinois Institute of Technology in the Computer Science department, advised by Dr. Xian-He Sun. I hold a B.Tech in Computer Science &amp; Engineering received in National Institute of Technology, Jamshedpur, India. I have 3 years of experience as an Application Developer at Oracle. My research is focused on Parallel and Distributed Systems, Parallel I/O optimizations, HPC systems, and Key-Value Store solutions.</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -438,7 +438,7 @@
             "showTitle": true,
             "showName": true,
             "showBio": true,
-            "count": 3,
+            "count": "2",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -450,17 +450,17 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "header": "WHAT OUR FANTASTIC USERS SAY",
+          "header": "Recommendations",
           "items": [
             {
-              "authorName": "ABANOUB S.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>"
+              "authorName": "Anthony Kougkas\r",
+              "authorBio": "Co researcher",
+              "text": "<p class=\"mbr-reviews__p\">“\"Code whisperer\" is the phrase that comes to mind when I think about Hariharan! He never seizes to amaze me with his geniousness. He is truly remarkable.\n</p><p class=\"mbr-reviews__p\"></p><p class=\"mbr-reviews__p\">\nHariharan joined my lab and quickly became a vital addition to most of our active projects. I have been working closely with him for the last 14 months. Hariharan’s ability to juggle multiple projects plus classes was unlike any I’ve seen before and made a dramatic difference in the productivity level of my team. I've learned to rely on his effectiveness and skillset.\n</p><p class=\"mbr-reviews__p\"></p><p class=\"mbr-reviews__p\">\nOn another note, Hariharan has impressed me on how well he works with other researchers in the lab. He quickly stepped up his involvement with lab activities and he is actually providing tutorials and quick mini-lectures to our new students in the lab. His interpersonal skills are amazing. I consider Hariharan my colleague and close friend.\n</p><p class=\"mbr-reviews__p\"></p><p class=\"mbr-reviews__p\">\nHariharan would be an asset to any team. As one of my closest colleagues, Hariharan earns my highest recommendation. Any employer would be lucky to have Hariharan in any professional capacity.”</p>"
             },
             {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>"
+              "authorName": "Mahendra Shetake",
+              "authorBio": "Software Development Senior Manager",
+              "text": "<p class=\"mbr-reviews__p\">“I know Hari since I interviewed him for the position of programmer (Application Developer) in Oracle Financial Services Software (OFSS) as a fresher 2 years back and within no time he became dependable and valuable member in the team. His tremendous enthusiasm coupled with his technical skills has always helped my team to achieve the desired goals.&nbsp;\n</p><p class=\"mbr-reviews__p\"></p><p class=\"mbr-reviews__p\">\nHis 'framework' mindset has produced some really good output. His contribution towards framework code for APIs and regression test suite has become cornerstone for my module as well as other engineering groups in our product.\n</p><p class=\"mbr-reviews__p\"></p><p class=\"mbr-reviews__p\">\nHari's personal strengths are as impressive as his professional achievements. One specific trait of Hari which keeps him apart from others is his habit of proactively asking for feedback from others. Such behavior is rarely observed in employees who have just started their professional career and this impressive strength of him will continue to help him. His open and cheerful behavior has always helped him to learn from others and make him approachable. He is a perfect guy to be a part of any group project.”</p>"
             },
             {
               "authorName": "JHOLLMAN C.",
@@ -475,19 +475,14 @@
           "_anchor": "testimonials1-c",
           "testimonial": [
             {
-              "authorName": "ABANOUB S.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>"
+              "authorName": "Anthony Kougkas\r",
+              "authorBio": "Co researcher",
+              "text": "<p class=\"mbr-reviews__p\">“\"Code whisperer\" is the phrase that comes to mind when I think about Hariharan! He never seizes to amaze me with his geniousness. He is truly remarkable.\n</p><p class=\"mbr-reviews__p\"></p><p class=\"mbr-reviews__p\">\nHariharan joined my lab and quickly became a vital addition to most of our active projects. I have been working closely with him for the last 14 months. Hariharan’s ability to juggle multiple projects plus classes was unlike any I’ve seen before and made a dramatic difference in the productivity level of my team. I've learned to rely on his effectiveness and skillset.\n</p><p class=\"mbr-reviews__p\"></p><p class=\"mbr-reviews__p\">\nOn another note, Hariharan has impressed me on how well he works with other researchers in the lab. He quickly stepped up his involvement with lab activities and he is actually providing tutorials and quick mini-lectures to our new students in the lab. His interpersonal skills are amazing. I consider Hariharan my colleague and close friend.\n</p><p class=\"mbr-reviews__p\"></p><p class=\"mbr-reviews__p\">\nHariharan would be an asset to any team. As one of my closest colleagues, Hariharan earns my highest recommendation. Any employer would be lucky to have Hariharan in any professional capacity.”</p>"
             },
             {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>"
-            },
-            {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
+              "authorName": "Mahendra Shetake",
+              "authorBio": "Software Development Senior Manager",
+              "text": "<p class=\"mbr-reviews__p\">“I know Hari since I interviewed him for the position of programmer (Application Developer) in Oracle Financial Services Software (OFSS) as a fresher 2 years back and within no time he became dependable and valuable member in the team. His tremendous enthusiasm coupled with his technical skills has always helped my team to achieve the desired goals.&nbsp;\n</p><p class=\"mbr-reviews__p\"></p><p class=\"mbr-reviews__p\">\nHis 'framework' mindset has produced some really good output. His contribution towards framework code for APIs and regression test suite has become cornerstone for my module as well as other engineering groups in our product.\n</p><p class=\"mbr-reviews__p\"></p><p class=\"mbr-reviews__p\">\nHari's personal strengths are as impressive as his professional achievements. One specific trait of Hari which keeps him apart from others is his habit of proactively asking for feedback from others. Such behavior is rarely observed in employees who have just started their professional career and this impressive strength of him will continue to help him. His open and cheerful behavior has always helped him to learn from others and make him approachable. He is a perfect guy to be a part of any group project.”</p>"
             }
           ]
         },
@@ -571,7 +566,7 @@
               "font-size": "14px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">PUBLICATIONS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">PROJECTS</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">TEAM</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">CONTACT</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">PUBLICATIONS</a></li>    <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">TEAM</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">CONTACT</a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -736,7 +731,7 @@
               "font-size": "14px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">PUBLICATIONS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">PROJECTS</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">TEAM</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">CONTACT</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">PUBLICATIONS</a></li>    <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">TEAM</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">CONTACT</a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -758,17 +753,16 @@
           "_anchor": "ext_menu-h"
         },
         {
-          "_inherit": "features1",
           "_params": {
             "showHeader": true,
             "showSubheader": false,
             "showImages": false,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": false,
+            "showButtons": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": 5,
+            "columns": 4,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -782,11 +776,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "_tags": [
-            "Theme"
-          ],
           "headerAlign": "left",
-          "header": "AREAS OF RESEARCH",
+          "header": "ONGOING PROJECTS",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
@@ -805,8 +796,8 @@
               "size": 0
             }
           },
-          "title1": "BOOTSTRAP 3",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title1": "Ares",
+          "caption1": "An Adaptive, Dynamic and Intelligent data compression for HDF5.&nbsp;<br>- Uses best library for data-type.<br>- Switches priorities of compression metrics based on demand.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -825,15 +816,18 @@
               "size": 0
             }
           },
-          "title2": "RESPONSIVE",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title2": "Hermes++",
+          "caption2": "Utilizing DNN for smart data buffering in Hierarchical Storage Systems<br>- Uses Machine Learning to predict best data placement.<br>- Uses Hermes framework for managing hierarchical storage.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "images/google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-194x99.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -845,8 +839,8 @@
               "size": 0
             }
           },
-          "title3": "WEB FONTS",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title3": "AETRIO",
+          "caption3": "An Elastic, Adaptive, Energy-Aware Task-based Reactive I/O System.<br>- Change I/O architectures to task-based<br>- Dynamic pool of workers to serve several applications",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -865,8 +859,8 @@
               "size": 0
             }
           },
-          "title4": "UNLIMITED WEBSITES",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title4": "Ira",
+          "caption4": "An Application-Aware, Dynamic and Adaptive I/O optimization framework using DNNs.<br>- Extracts code features using LLVM techniques<br>- Uses dynamic code path generation for I/O optimizations.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -908,14 +902,16 @@
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_name": "content4",
-          "_anchor": "content4-n",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
           "_styles": {
-            ".mbr-section-title .mbr-header__text": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            "P": {
+              "text-align": "left"
             }
-          }
+          },
+          "_anchor": "features1-14"
         },
         {
           "_styles": {
@@ -950,7 +946,7 @@
           },
           "title": "PUBLICATIONS",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "text": "<p>[1] <a href=\"http://www.cs.iit.edu/~scs/psfiles/OED_DataCloud17.pdf\">Devarajan, Hariharan, Anthony Kougkas, X. H. Sun, and H. B. Chen. \"Open ethernet drive: Evolution of energy-efficient storage technology.\" Proceedings of the ACM SIGHPC Datacloud 17 (2017).</a></p><p>[2] <a href=\"http://www.pdsw.org/pdsw-discs17/wips/kougkas-wip-pdsw-discs17.pdf\" target=\"_blank\">Kougkas, Anthony, Hariharan Devarajan, and Xian-He Sun. \"A Study of NVRAM Performance Variability under Concurrent I/O Accesses.\"</a></p><p>[3] <a href=\"http://www.cs.iit.edu/~scs/psfiles/Syndesis.pdf\" target=\"_blank\">Kougkas, Anthony, Hariharan Devarajan, and Xian-He Sun. \"Syndesis: Mapping Objects to Files for a Unified Data Access System.\"</a></p><p>[4] <a href=\"http://www.cs.iit.edu/~scs/psfiles/Enosis.pdf\" target=\"_blank\">Kougkas, Anthony, Hariharan Devarajan, and Xian-He Sun. \"Enosis: Bridging the Semantic Gap between File-based and Object-based Data Models.\"</a></p><p>[5] <a href=\"http://www.pdsw.org/pdsw-discs17/wips/devarajan-wip-pdsw-discs17.pdf\" target=\"_blank\">Devarajan, Hariharan, Anthony Kougkas, and Xian-He Sun. \"Micro-Storage Services for Open Ethernet Drive.\"</a></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -1038,7 +1034,7 @@
               "font-size": "14px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">PUBLICATIONS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">PROJECTS</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">TEAM</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">CONTACT</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">PUBLICATIONS</a></li>    <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">TEAM</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">CONTACT</a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -1451,7 +1447,7 @@
               "font-size": "14px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">PUBLICATIONS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">PROJECTS</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">TEAM</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">CONTACT</a></li> ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">PUBLICATIONS</a></li>    <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">TEAM</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">CONTACT</a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -1471,36 +1467,6 @@
           "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Hariharan Devarajan</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-l"
-        },
-        {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "right",
-            "bgImageRadio": true,
-            "bgImage": "images/bg5.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "FULL-SCREEN HEADER",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-z"
         },
         {
           "_inherit": "msg-box5",
@@ -1531,7 +1497,10 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/my-photo-244x193.png",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -1545,8 +1514,8 @@
               "size": 0
             }
           },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "title": "Hariharan Devarajan",
+          "text": "<p>He is a 2nd year Ph.D. Candidate at Illinois Institute of Technology in the Computer Science department, advised by Dr. Xian-He Sun. He holds a B.Tech in Computer Science &amp; Engineering received in National Institute of Technology, Jamshedpur, India. He has 3 years of experience as an Application Developer at Oracle. His research is focused on Parallel and Distributed Systems, Parallel I/O optimizations, HPC systems, and Key-Value Store solutions.</p>",
           "_tags": [
             "Theme"
           ],
@@ -1562,8 +1531,8 @@
             }
           },
           "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "meta": "PhD Candidate, Illinois Institute of technology",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-y"
         },
@@ -1596,7 +1565,10 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/anthony-271x297.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -1610,8 +1582,8 @@
               "size": 0
             }
           },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "title": "Anthony Kougkas",
+          "text": "<p>Anthony was born and raised in Greece. He graduated with a B.Sc. from the Military Academy as an Army Officer. He was stationed in the Presidential Guard where he held the Information Systems office for most of his 9 years career in the Armed Forces.\n</p><p>\n</p><p>He graduated with an M.Sc. in Computer Science from the University of Piraeus in Athens. He was awarded a scholarship for graduating 2nd in my class.\n</p><p>\n</p><p>He moved to the US to pursue my doctoral studies in Computer Science. He joined Illinois Institute of Technology in August 2013.\n</p><p>\n</p><p>He like to spend my free time at the gym, playing basketball, composing music with his guitar and doing photography.</p>",
           "_tags": [
             "Theme"
           ],
@@ -1627,140 +1599,10 @@
             }
           },
           "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "meta": "PhD Candidate, Illinois Institute of technology",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-11"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "26",
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f97352",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-12"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "imageSize": "26",
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#3d8eb9",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-13"
         },
         {
           "_params": {
