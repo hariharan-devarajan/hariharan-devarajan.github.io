@@ -10,7 +10,7 @@
     },
     "versionFirst": "4.3.2",
     "uniqCompNum": 41,
-    "versionPublish": "4.9.7",
+    "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "siteFonts": []
   },
@@ -434,7 +434,7 @@
             }
           },
           "title": "Hariharan Devarajan",
-          "text": "<p>He is a 3rd year Ph.D. Candidate at Illinois Institute of Technology in the Computer Science department, advised by Dr. Xian-He Sun. He holds a B.Tech in Computer Science &amp; Engineering received in National Institute of Technology, Jamshedpur, India. He has 3 years of experience as an Application Developer at Oracle. His research is focused on Parallel and Distributed Systems, Parallel I/O optimizations, HPC systems, and Key-Value Store solutions.</p>",
+          "text": "<p>He is a 2nd year Ph.D. Candidate at Illinois Institute of Technology in the Computer Science department, advised by Dr. Xian-He Sun. He holds a B.Tech in Computer Science &amp; Engineering received in National Institute of Technology, Jamshedpur, India. He has 3 years of experience as an Application Developer at Oracle. His research is focused on Parallel and Distributed Systems, Parallel I/O optimizations, HPC systems, and Key-Value Store solutions.</p>",
           "_tags": [
             "Theme"
           ],
@@ -502,7 +502,7 @@
             }
           },
           "title": "Anthony Kougkas",
-          "text": "<p>Anthony is fellow SCS lab member. He is a PhD candidate at Illinois Institute of Technology in the Computer Science department, also advised by Dr. Xian-He Sun. He is an expert in Parallel and Distributed systems, Parallel I/O optimizations, HPC systems, I/O Convergence, and I/O Advanced Buffering.  Anthony and I have been working together for the last 3 years. We are motivated to solve the hardest problems in Parallel and Distributed storage.</p>",
+          "text": "<p>Anthony is fellow SCS lab member. He is a PhD candidate at Illinois Institute of Technology in the Computer Science department, also advised by Dr. Xian-He Sun. He is an expert in Parallel and Distributed systems, Parallel I/O optimizations, HPC systems, I/O Convergence, and I/O Advanced Buffering.  Anthony and I have been working together for the last 2 years. We are motivated to solve the hardest problems in Parallel and Distributed storage.</p>",
           "_tags": [
             "Theme"
           ],
@@ -1039,53 +1039,15 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "PUBLICATIONS",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "1. Anthony Kougkas, <b>Hariharan Devarajan</b>, Jay Lofstead, and Xian-He Sun. \"LABIOS: A Distributed Label-Based I/O System\", In Proceedings of the ACM 28th International Symposium on High-Performance Parallel and Distributed Computing (HPDC'19) (scheduled to appear)\n<div>2. <b>Hariharan Devarajan</b>, Anthony Kougkas, and Xian-He Sun. \"An Intelligent, Adaptive, and Flexible Data Compression Framework\", In Proceedings of the IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing (CCGrid'19) (scheduled to appear)\n</div><div>Hariharan Devarajan, Anthony Kougkas, Prajwal Challa, and Xian-He Sun. \"Vidya: Performing Code-Block I/O Characterization for Data Access Optimization\", In Proceedings of the IEEE International Conference on High Performance Computing, Data, and Analytics 2018 (HiPC'18)\n</div><div>Anthony Kougkas, Hariharan Devarajan, Xian-He Sun, and Jay Lofstead. \"Harmonia: An Interference-Aware Dynamic I/O Scheduler for Shared Non-Volatile Burst Buffers\" (Slides), In Proceedings of the IEEE International Conference on Cluster Computing 2018 (Cluster'18)\n</div><div>Anthony Kougkas, Hariharan Devarajan, and Xian-He Sun. \"Hermes: A Heterogeneous-Aware Multi-Tiered Distributed I/O Buffering System\" (Slides), In Proceedings of the ACM 27th International Symposium on High-Performance Parallel and Distributed Computing (HPDC'18)\n</div><div>Anthony Kougkas, Hariharan Devarajan, and Xian-He Sun. \"IRIS: I/O Redirection via Integrated Storage\" (Slides), In Proceedings of the 32nd ACM International Conference on Supercomputing (ICS'18)\n</div><div>Anthony Kougkas, Matthieu Dorier, Rob Latham, Rob Ross, and Xian-He Sun. \"Leveraging Burst Buffer Coordination to Prevent I/O Interference.\" (Slides), In Proceedings of the IEEE 12th International Conference on eScience 2016.\n</div><div>Shuibing He, Xian-He Sun, Yang Wang, Anthony Kougkas, Adnan Haider. \"A Heterogeneity-Aware Region-Level Data Layout for Hybrid Parallel File Systems.\", In Proceedings of the International Conference on Parallel Processing (ICPP-2015).</div>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-r",
-          "_customHTML": "<section class=\"mbr-section mbr-section--relative mbr-section--fixed-size mbr-after-navbar\" data-rv-view=\"17\" style=\"background-color: rgb(239, 239, 239);\">\n    \n    <div class=\"mbr-section__container container mbr-section__container--first\" style=\"padding-top: 0px;\">\n        <div class=\"mbr-header mbr-header--wysiwyg row\">\n            <div class=\"col-sm-8 col-sm-offset-2\">\n                <h3 class=\"mbr-header__text mbr-editable-content\" code-editable-id=\"46\">PUBLICATIONS</h3>\n                \n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section__container container mbr-section__container--last\" style=\"padding-bottom: 93px;\">\n        <div class=\"row\">\n            <div class=\"mbr-article mbr-article--wysiwyg col-sm-8 col-sm-offset-2 mbr-editable-full\" code-editable-id=\"47\">\n                <ol>\n                    <li>Anthony Kougkas, <strong>Hariharan Devarajan</strong>, Jay Lofstead, and Xian-He Sun. \"LABIOS: A Distributed Label-Based I/O System\", In Proceedings of the ACM 28th International Symposium on High-Performance Parallel and Distributed Computing (HPDC'19) (scheduled to appear)</li>\n                    <li><strong>Hariharan Devarajan</strong>, Anthony Kougkas, and Xian-He Sun. \"An Intelligent, Adaptive, and Flexible Data Compression Framework\", In Proceedings of the IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing (CCGrid'19) (scheduled to appear)</li>\n                    <li><strong>Hariharan Devarajan</strong>, Anthony Kougkas, Prajwal Challa, and Xian-He Sun. \"Vidya: Performing Code-Block I/O Characterization for Data Access Optimization\", In Proceedings of the IEEE International Conference on High Performance Computing, Data, and Analytics 2018 (HiPC'18)</li>\n                    <li>Anthony Kougkas, <strong>Hariharan Devarajan</strong>, Xian-He Sun, and Jay Lofstead. \"Harmonia: An Interference-Aware Dynamic I/O Scheduler for Shared Non-Volatile Burst Buffers\" (Slides), In Proceedings of the IEEE International Conference on Cluster Computing 2018 (Cluster'18)</li>\n                    <li>Anthony Kougkas, <strong>Hariharan Devarajan</strong>, and Xian-He Sun. \"Hermes: A Heterogeneous-Aware Multi-Tiered Distributed I/O Buffering System\" (Slides), In Proceedings of the ACM 27th International Symposium on High-Performance Parallel and Distributed Computing (HPDC'18)</li>\n                    <li>Anthony Kougkas,<strong>Hariharan Devarajan</strong>, and Xian-He Sun. \"IRIS: I/O Redirection via Integrated Storage\" (Slides), In Proceedings of the 32nd ACM International Conference on Supercomputing (ICS'18)</li>\n                </ol>\n        </div>\n        </div>\n    </div>\n    \n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": ".mbr-header .mbr-header__text {\n  text-align: center;\n}\n.mbr-header .mbr-header__subtext {\n  text-align: center;\n}\n",
-          "_customTemplate": true
-        },
-        {
-          "_params": {
             "showHeader": true,
             "showSubheader": false,
             "showImages": false,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": false,
+            "showButtons": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": "2",
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -1119,8 +1081,8 @@
               "size": 0
             }
           },
-          "title1": "HNet",
-          "caption1": "Enabling high performance multi-tiered storage over fabric with fast atomic messages.",
+          "title1": "Ares",
+          "caption1": "An Adaptive, Dynamic and Intelligent data compression for HDF5.&nbsp;<br>- Uses best library for data-type.<br>- Switches priorities of compression metrics based on demand.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -1139,8 +1101,8 @@
               "size": 0
             }
           },
-          "title2": "HStream",
-          "caption2": "Enabling perfect stream access for fast and hetrogeneous streams by utilizing multi-tiered storage.",
+          "title2": "Hermes++",
+          "caption2": "Utilizing DNN for smart data buffering in Hierarchical Storage Systems<br>- Uses Machine Learning to predict best data placement.<br>- Uses Hermes framework for managing hierarchical storage.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -1162,7 +1124,7 @@
               "size": 0
             }
           },
-          "title3": "AETRIO",
+          "title3": "LABIOS",
           "caption3": "An Elastic, Adaptive, Energy-Aware Task-based Reactive I/O System.<br>- Change I/O architectures to task-based<br>- Dynamic pool of workers to serve several applications",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
@@ -1202,8 +1164,8 @@
               "size": 0
             }
           },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title5": "HFetch",
+          "caption5": "Hierarchical data prefetching for multi-tiered storage.<br>- Server Push to achieve global system opt.<br>&nbsp;- Global segment scoring to measure of hotness of the files.<br><br>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -1235,6 +1197,50 @@
             }
           },
           "_anchor": "features1-14"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "color": "#4c6972"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PUBLICATIONS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>[1] <a href=\"http://www.cs.iit.edu/~scs/psfiles/OED_DataCloud17.pdf\">Devarajan, Hariharan, Anthony Kougkas, X. H. Sun, and H. B. Chen. \"Open ethernet drive: Evolution of energy-efficient storage technology.\" Proceedings of the ACM SIGHPC Datacloud 17 (2017).</a></p><p>[2] <a href=\"http://www.pdsw.org/pdsw-discs17/wips/kougkas-wip-pdsw-discs17.pdf\" target=\"_blank\">Kougkas, Anthony, Hariharan Devarajan, and Xian-He Sun. \"A Study of NVRAM Performance Variability under Concurrent I/O Accesses.\"</a></p><p>[3] <a href=\"http://www.cs.iit.edu/~scs/psfiles/Syndesis.pdf\" target=\"_blank\">Kougkas, Anthony, Hariharan Devarajan, and Xian-He Sun. \"Syndesis: Mapping Objects to Files for a Unified Data Access System.\"</a></p><p>[4] <a href=\"http://www.cs.iit.edu/~scs/psfiles/Enosis.pdf\" target=\"_blank\">Kougkas, Anthony, Hariharan Devarajan, and Xian-He Sun. \"Enosis: Bridging the Semantic Gap between File-based and Object-based Data Models.\"</a></p><p>[5] <a href=\"http://www.pdsw.org/pdsw-discs17/wips/devarajan-wip-pdsw-discs17.pdf\" target=\"_blank\">Devarajan, Hariharan, Anthony Kougkas, and Xian-He Sun. \"Micro-Storage Services for Open Ethernet Drive.\"</a></p><p>[6] &nbsp;<u>Devarajan, Hariharan, Anthony Kougkas, and Xian-He Sun \"Ares: An Intelligent, Adaptive, and Flexible Data Compression Framework\" Proceedings of the IEEE CCGrid 2019.</u>&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-r"
         },
         {
           "_params": {
